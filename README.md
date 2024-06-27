@@ -1,4 +1,4 @@
-# CSC 101: Introduction to Computer Programming (1)
+# 专业阅读与写作
 
 | Class Location | Engineering Building, Room 110 |
 | --- | --- |
